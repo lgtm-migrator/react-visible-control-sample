@@ -34,7 +34,18 @@ class App extends Component {
 }
 ```
 
-render result: 
+a mock user
+
+```js
+const MOCK_USER = {
+  name: "Theo Sun",
+  age: 46,
+  role: ["STAFF"],
+  privilege: ["READ"]
+}
+```
+
+rendered result: 
 
 ```html
 <div id="root">
