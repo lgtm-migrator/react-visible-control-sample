@@ -5141,7 +5141,7 @@ react-dev-utils@^5.0.0:
     strip-ansi "3.0.1"
     text-table "0.2.0"
 
-react-dom@^16.0.0, react-dom@^16.2.0:
+react-dom@^16.2.0:
   version "16.2.0"
   resolved "http://registry.npm.taobao.org/react-dom/download/react-dom-16.2.0.tgz#69003178601c0ca19b709b33a83369fe6124c044"
   dependencies:
@@ -5198,15 +5198,11 @@ react-scripts@1.1.0:
   optionalDependencies:
     fsevents "1.1.2"
 
-react-visible-control@^1.1.4:
-  version "1.1.4"
-  resolved "http://registry.npm.taobao.org/react-visible-control/download/react-visible-control-1.1.4.tgz#d779ea335ea779339e1ee44e08680cd4ebd6701d"
-  dependencies:
-    prop-types "^15.6.0"
-    react "^16.0.0"
-    react-dom "^16.0.0"
+react-visible-control@^1.1.6:
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/react-visible-control/-/react-visible-control-1.1.9.tgz#5eaf2ae6f4896a38eb4c23d8ee3ca8bc4f8d1d46"
 
-react@^16.0.0, react@^16.2.0:
+react@^16.2.0:
   version "16.2.0"
   resolved "http://registry.npm.taobao.org/react/download/react-16.2.0.tgz#a31bd2dab89bff65d42134fa187f24d054c273ba"
   dependencies:
